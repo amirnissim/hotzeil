@@ -1,4 +1,4 @@
-**Website for @itaimiller's graduate project**
+*Website for the Hotze-Israel project by @itaimiller*
 
 Hotze Israel
 ============
